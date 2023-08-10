@@ -9,7 +9,8 @@
   "jest": {
     "transform": {
       "^.+\\.[t|j]sx?$": "babel-jest"
-    }
+    },
+    "verbose": true
   },
   "author": "Wafa Saefulhaq",
   "license": "ISC",
